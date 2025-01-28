@@ -1,7 +1,8 @@
 # Stock Trading Simulator
 
 A real-time stock trading simulation application built with Vue 3, TypeScript, and Pinia.
-Features
+
+### Features
 
 - Real-time stock price updates (10-second intervals)
 
@@ -15,7 +16,7 @@ Features
 
 - Mock API integration
 
-## Getting Started
+### Getting Started
 
 #### Clone the repository
 

@@ -1,6 +1,6 @@
 import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
-import type { Portfolio, TradeOrder, Holding, Transaction } from '@/types'
+import type { Portfolio, TradeOrder, Transaction } from '@/types'
 import { mockApi } from '@/services/mockApi'
 import { useStockStore } from './stockStore'
 

@@ -1,4 +1,3 @@
-// src/stores/__tests__/portfolioStore.test.ts
 import { setActivePinia, createPinia } from 'pinia'
 import { usePortfolioStore } from '../portfolioStore'
 import { useStockStore } from '../stockStore'
