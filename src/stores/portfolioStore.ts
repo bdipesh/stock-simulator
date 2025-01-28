@@ -86,7 +86,6 @@ export const usePortfolioStore = defineStore('portfolio', () => {
           symbol,
           quantity,
           averagePrice: price,
-          type: 'Buy',
         })
       } else {
         const holding = portfolio.value.holdings[holdingIndex]
